@@ -6,3 +6,5 @@ This example presents problem with text area. To reproduce:
 3) There is strange flickering when jumping between second and third (TextInput and TextArea)
 4) Check if last item is easily selectable
 5) Entering anything in TextArea make it harder to focus (you have to click on text, not empty area)
+
+Example behavior https://www.youtube.com/shorts/3v7KTi0Hsi0
